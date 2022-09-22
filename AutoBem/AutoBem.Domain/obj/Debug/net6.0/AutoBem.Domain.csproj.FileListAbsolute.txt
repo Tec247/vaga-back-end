@@ -1,0 +1,12 @@
+C:\Users\Diotec22\Documents\www\vaga-back-end\AutoBem\AutoBem.Domain\bin\Debug\net6.0\AutoBem.Domain.deps.json
+C:\Users\Diotec22\Documents\www\vaga-back-end\AutoBem\AutoBem.Domain\bin\Debug\net6.0\AutoBem.Domain.dll
+C:\Users\Diotec22\Documents\www\vaga-back-end\AutoBem\AutoBem.Domain\bin\Debug\net6.0\AutoBem.Domain.pdb
+C:\Users\Diotec22\Documents\www\vaga-back-end\AutoBem\AutoBem.Domain\obj\Debug\net6.0\AutoBem.Domain.csproj.AssemblyReference.cache
+C:\Users\Diotec22\Documents\www\vaga-back-end\AutoBem\AutoBem.Domain\obj\Debug\net6.0\AutoBem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diotec22\Documents\www\vaga-back-end\AutoBem\AutoBem.Domain\obj\Debug\net6.0\AutoBem.Domain.AssemblyInfoInputs.cache
+C:\Users\Diotec22\Documents\www\vaga-back-end\AutoBem\AutoBem.Domain\obj\Debug\net6.0\AutoBem.Domain.AssemblyInfo.cs
+C:\Users\Diotec22\Documents\www\vaga-back-end\AutoBem\AutoBem.Domain\obj\Debug\net6.0\AutoBem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Diotec22\Documents\www\vaga-back-end\AutoBem\AutoBem.Domain\obj\Debug\net6.0\AutoBem.Domain.dll
+C:\Users\Diotec22\Documents\www\vaga-back-end\AutoBem\AutoBem.Domain\obj\Debug\net6.0\refint\AutoBem.Domain.dll
+C:\Users\Diotec22\Documents\www\vaga-back-end\AutoBem\AutoBem.Domain\obj\Debug\net6.0\AutoBem.Domain.pdb
+C:\Users\Diotec22\Documents\www\vaga-back-end\AutoBem\AutoBem.Domain\obj\Debug\net6.0\ref\AutoBem.Domain.dll
